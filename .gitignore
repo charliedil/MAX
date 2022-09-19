@@ -1,0 +1,15 @@
+*.pkl.pt
+bioinfer_gene
+bioinger_gene_out
+cellfinder_species
+medacy_0.log
+models/*
+ncbi_disease
+nohup.out
+*.pkl
+output_idk
+PMC*
+pmc_input_files
+variome_gene
+venv
+wikipedia-pubmed-and-PMC-w2v.bin
